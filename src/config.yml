@@ -1,0 +1,18 @@
+# X,Y,Z coords (comma seperated)
+spawn:
+
+# Server Picker syntax:
+# 1st is slot in picker
+# 2nd is id of item
+# 3rd is name of item
+# 4th is server to go to
+picker:
+  - 1,2,PvP,PvP
+
+book:
+  title: Book!
+  author: Author
+  pages:
+    - Page 1
+    - Page 2
+    - Page 3
